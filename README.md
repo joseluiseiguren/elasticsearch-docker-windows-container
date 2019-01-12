@@ -46,3 +46,6 @@ docker container run -d -p 9200:9200 -p 9300:9300 -m 2G --name elasticsearch raj
 ```
 
 > Windows Server 2016 is fine.
+
+
+Note: this is Fork copy from [sixeyed/dockerfiles-windows](https://github.com/sixeyed/dockerfiles-windows/tree/master/elasticsearch)
